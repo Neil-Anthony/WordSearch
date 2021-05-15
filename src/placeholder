@@ -1,0 +1,6 @@
+Check Vertical
+if (!((board[vPos+i][hPos]== (charArray[i]) || (board[vPos+i][hPos] == '\u0000')))){
+
+
+Check Horizontal
+if (!((board[vPos][hPos +i]== (charArray[i]) || (board[vPos][hPos +i] == '\u0000')))){
